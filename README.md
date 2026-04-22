@@ -1,4 +1,4 @@
-# Proyecto Corte 2 — Grupo Sofía Giraldo Pico
+# Proyecto Corte 2 — Grupo Sofía Giraldo Pico y Valery Linares
 
 Sistema **Chef-Costos** (dominio **gastronomía**): evolución del MVP de Corte 1 (`taller_parte2_corte1.py`), que guardaba todo en memoria y en flujo secuencial, hacia una **arquitectura por capas** con **POO**, **encapsulación** y **persistencia relacional en SQLite**.
 
